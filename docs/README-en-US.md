@@ -1,4 +1,4 @@
-**English (US)** | [Português (BR)](/docs/README.md) 
+**English (US)** | [Português (BR)](/docs/README.md)
 
 <p align="center">
   <a href="https://queridodiario.ok.org.br/sobre" target="_blank"> <img alt="Querido Diário" src="./images/querido-diario-logo.png" width="200">
@@ -6,7 +6,7 @@
 </p>
 
 # Querido Diário
-Within the [Querido Diário ecosystem](https://github.com/okfn-brasil/querido-diario-comunidade/blob/main/.github/CONTRIBUTING-en-US.md#ecosystem), this repository is responsible for **scraping official gazettes publishing sites**
+Within the [Querido Diário ecosystem](https://docs.queridodiario.ok.org.br/en/latest/contributing/contribution-guide.html#ecosystem), this repository is responsible for **scraping official gazettes publishing sites**
 
 Find out more about [technologies](https://queridodiario.ok.org.br/tecnologia) and [history](https://queridodiario.ok.org.br/sobre) of the project on the [Querido Diário website](https://queridodiario.ok.org.br)
 
@@ -98,14 +98,17 @@ Meet [who supports Querido Diario](https://queridodiario.ok.org.br/apoie#quem-ap
 
 # Open Knowledge Brazil
 <p>
-  <a href="https://twitter.com/okfnbr" target="_blank">
-    <img alt="Twitter Follow" src="https://img.shields.io/badge/Twitter-_-blue?style=for-the-badge&logo=twitter">
+  <a href="https://bsky.app/profile/ok.org.br" target="_blank">
+    <img alt="Bluesky Follow" src="https://img.shields.io/badge/Bluesky-_-0285FF?style=for-the-badge&logo=bluesky">
   </a>
   <a href="https://www.instagram.com/openknowledgebrasil/" target="_blank">
     <img alt="Instagram Follow" src="https://img.shields.io/badge/Instagram-_-red?style=for-the-badge&logo=instagram">
   </a>
   <a href="https://www.linkedin.com/company/open-knowledge-brasil" target="_blank">
     <img alt="LinkedIn Follow" src="https://img.shields.io/badge/LinkedIn-_-9cf?style=for-the-badge&logo=linkedin">
+  </a> 
+  <a href="https://mastodon.social/@okbr" target="_blank">
+    <img alt="Mastodon Follow" src="https://img.shields.io/badge/mastodon-_-6364FF?style=for-the-badge&logo=mastodon">
   </a>
 </p>
 
