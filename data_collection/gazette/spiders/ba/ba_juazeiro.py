@@ -1,10 +1,10 @@
 from datetime import date
 
-from gazette.spiders.base.doem import DoemGazetteSpider
+from gazette.spiders.base.doem import BaseDoemSpider
 
 
-class BaJuazeiroSpider(DoemGazetteSpider):
+class BaJuazeiroSpider(BaseDoemSpider):
     TERRITORY_ID = "2918407"
     name = "ba_juazeiro"
-    start_date = date(2018, 1, 2)  # edition_number 1.135
     state_city_url_part = "ba/juazeiro"
+    start_date = date(2013, 2, 1)

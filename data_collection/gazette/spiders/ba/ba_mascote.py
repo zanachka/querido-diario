@@ -1,10 +1,10 @@
 from datetime import date
 
-from gazette.spiders.base.doem import DoemGazetteSpider
+from gazette.spiders.base.doem import BaseDoemSpider
 
 
-class BaMascoteSpider(DoemGazetteSpider):
+class BaMascoteSpider(BaseDoemSpider):
     TERRITORY_ID = "2920908"
     name = "ba_mascote"
-    start_date = date(2010, 1, 4)  # edition number 1
     state_city_url_part = "ba/mascote"
+    start_date = date(2010, 1, 4)
